@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unsplash</string>
+    
+    <!-- Required Strings -->
+    <string name="webpage_url">https://cdn.getpinwheel.com/random_image.html</string>
+    <string name="page_name">random_photos.html</string>
+    <string name="random_photo_url">https://source.unsplash.com/random/800x800</string>
+    <string name="js_message_refresh">refresh</string>
+</resources>
